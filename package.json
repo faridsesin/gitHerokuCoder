@@ -1,0 +1,24 @@
+{
+  "name": "clase-33---git---heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridsesin/gitHerokuCoder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridsesin/gitHerokuCoder/issues"
+  },
+  "homepage": "https://github.com/faridsesin/gitHerokuCoder#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

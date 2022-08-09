@@ -6,7 +6,7 @@ app.get('/',(req,res)=>{
     res.send('SERVIDOR CON GIT')
 })
 app.get('/prueba',(req,res)=>{
-    console.log('prueba')
+    console.log('prueba heroku')
 })
 
 app.listen(8080,()=>{
